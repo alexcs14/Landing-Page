@@ -47,6 +47,20 @@
         <p>Nuestro objetivo es lograr una mayor agilidad en el proceso de donaciones voluntarias, y de este modo aumentar el numero de personas salvadas por la contribucion de la comunidad.</p>
       </div>
     </div>
+
+    <div class="container row">
+      <div class="col s5">
+        <h2>Quienes Somos</h2>
+        <p>
+          Somos un grupo de personas interesados por el tema de la salud publica, con ganas de ayudar y innovar en las
+          tecnologias.
+        </p>
+        <p>
+          Nuestro objetivo es mostrar al mundo nuevas posibilidades de ayudar a quien lo necesita, suministrando una
+          plataforma en la cual podran dar una mano por la salud de otro.
+        </p>
+      </div>
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
     <script type="text/javascript" src="assets/main.js"></script>
   </body>
