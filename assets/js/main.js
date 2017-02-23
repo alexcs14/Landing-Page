@@ -1,3 +1,5 @@
 $(document).ready(function(){
-  $('.slider').slider();
+  $('.slider').slider({
+    interval: 9000,
+  });
 });
