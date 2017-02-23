@@ -1,0 +1,25 @@
+/*mision y vision*/
+#mis {
+  background-color: brown;
+  color: red;
+  margin-top:  14%;
+  margin-left: 18%;
+}
+#vis{
+  background-color: blue;
+  color: red;
+  margin-top: 14%;
+  margin-left: 36%;
+}
+#mys-txt1{
+  font-size: 16px;
+  background-color: pink;
+  margin-top: 1%;
+  margin-left: 18%;
+}
+#mys-txt2{
+  font-size: 16px;
+  background-color: pink;
+  margin-top:1%;
+  margin-left: 34%;
+}
