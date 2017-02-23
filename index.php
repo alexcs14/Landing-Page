@@ -61,6 +61,14 @@
         </p>
       </div>
     </div>
+
+
+    <div class="container">
+        <div class="row">
+        <div class="col s4" id="cir-j" > <img class="circle responsive-img" src="assets/images/1.jpg">Jhony Alexander Oquendo Santana <h6><p> Contacto :</p><p>alex_os14@hotmail.com</p> </h6> </div>
+        <div class="col s4"  id="cir-y"><img class="circle responsive-img" src="assets/images/1.jpg">Yeny Paola Lòpez Salazar <h6><p> Contacto :</p><p>shatanoga.yp@gmail.com</p></h6> </div>
+      </div>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
     <script type="text/javascript" src="assets/main.js"></script>
   </body>
