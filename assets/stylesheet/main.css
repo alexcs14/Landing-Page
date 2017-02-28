@@ -1,12 +1,10 @@
 /*mision y vision*/
 #mis {
-  background-color: brown;
   color: red;
   margin-top:  14%;
   margin-left: 18%;
 }
 #vis{
-  background-color: blue;
   color: red;
   margin-top: 14%;
   margin-left: 36%;
@@ -35,4 +33,12 @@
   margin-left: 16%;
   text-align: center;
   font-size: 20px;
+}
+
+/*menu*/
+#main{
+  margin-left: 2%;
+  margin-right: 2%;
+  font-size: 24px;
+  background-color: #212121";
 }

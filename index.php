@@ -8,6 +8,19 @@
   </head>
 
   <body>
+    <nav>
+   <div class="nav-wrapper"id="main" >
+     <ul class="left hide-on-med-and-down">
+       <li><a href="badges.html">Información</a></li>
+       <li><a href="sass.html">Quienes somos</a></li>
+    </ul>
+     <a href="#!" class="brand-logo center">Logo</a>
+     <ul class="right hide-on-med-and-down">
+       <li><a href="badges.html">Mision y Vision</a></li>
+       <li class="active"><a href="collapsible.html">Contactenos</a></li>
+     </ul>
+   </div>
+ </nav>
       <div class="container row grey">
         <h2>Información</h2>
         <p class="col s12">
