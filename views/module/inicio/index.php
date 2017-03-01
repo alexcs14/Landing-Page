@@ -19,20 +19,10 @@
         <img src="assets/images/4.jpg">
         <div class="caption left-align">
           <div class="container row">
-            <h3>Quienes Somos</h3>
+            <form class="" action="?c=main&a=qs" method="post">
+              <button type="submit">enviar</button>
+            </form>
             <div>
-              <div>
-                <p class="col5" id="ha">
-                  Somos un grupo de personas interesados por el tema de la salud publica, con ganas de ayudar y innovar en las
-                  tecnologias.
-                </p>
-              </div>
-              <div>
-                <p class="ha col5" id="ha">
-                  Nuestro objetivo es mostrar al mundo nuevas posibilidades de ayudar a quien lo necesita, suministrando una
-                  plataforma en la cual podran dar una mano por la salud de otro.
-                </p>
-              </div>
             </div>
           </div>
         </div>
