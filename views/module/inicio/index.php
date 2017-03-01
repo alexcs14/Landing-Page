@@ -2,23 +2,12 @@
     <ul class="slides">
       <li>
         <img src="assets/images/3.jpg" >
-        <div class="caption center-align">
-
-        </div>
       </li>
       <li>
         <img src="assets/images/4.jpg">
-        <div class="caption left-align">
-          <div class="container row">
-
-            <div>
-            </div>
-          </div>
-        </div>
       </li>
       <li>
         <img src="assets/images/6.jpg">
-
       </li>
     </ul>
 
@@ -39,12 +28,12 @@
     </form>
 
 
+<h1>Porque las pequeñas cosas pueden hacer un gran cambio</h1>
+
 <div class="container">
     <div class="row">
     <div class="col s2" id="cir-j"><img class="circle responsive-img" src="assets/images/1.jpg"><span class="b">Jhony Alexander Oquendo Santana<p class="col s8"> Contacto: alex_os14@hotmail.com</p> </span> </div>
     <div class="col s2" id="cir-y"><img class="circle responsive-img" src="assets/images/1.jpg"><span class="b">Yeny Paola López Salazar<p class="col s8"> Contacto: shatanoga.yp@gmail.com</p></span> </div>
      </div>
 
-
   </div>
-<div id="terms">© Copyright 2017 by LifeSaver. All Rights Reserved.</div>
