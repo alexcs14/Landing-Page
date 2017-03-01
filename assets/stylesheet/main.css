@@ -38,3 +38,17 @@
   background-color: yellow;
   padding: 10px;
 }
+
+
+/*menu*/
+#menu{
+  z-index: 100;
+  font-size: 34px;
+  background: #000000;
+  opacity: 0.5;
+}
+.side-nav{
+  z-index:100;
+  background-color: gray;
+background-image: url(../../assets/images/bars.png);
+}
