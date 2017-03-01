@@ -86,10 +86,11 @@
 
     <div class="container">
         <div class="row">
-        <div class="col s4" id="cir-j" > <img class="circle responsive-img" src="assets/images/1.jpg">Jhony Alexander Oquendo Santana <h6><p> Contacto :</p><p>alex_os14@hotmail.com</p> </h6> </div>
-        <div class="col s4"  id="cir-y"><img class="circle responsive-img" src="assets/images/1.jpg">Yeny Paola Lòpez Salazar <h6><p> Contacto :</p><p>shatanoga.yp@gmail.com</p></h6> </div>
+        <div class="col s3" id="cir-j" > <img class="circle responsive-img" src="assets/images/1.jpg">Jhony Alexander Oquendo Santana <span class="info"><p class="col s4" id="b"> Contacto: alex_os14@hotmail.com</p></span> </div>
+        <div class="col s3" id="cir-y" > <img class="circle responsive-img" src="assets/images/1.jpg">Yeny Paola López Salazar <span class="info"><p class="col s4" id="b"> Contacto: shatanoga.yp@gmail.com</p></span> </div>
          </div>
       </div>
+      <div id="terms">© Copyright 2017 by LifeSaver. All Rights Reserved. |  Terms</div>
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
     <script type="text/javascript" src="assets/js/main.js"></script>
