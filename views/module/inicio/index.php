@@ -3,25 +3,14 @@
       <li>
         <img src="assets/images/3.jpg" >
         <div class="caption center-align">
-          <div class="row light grey-text text-lighten-3" id="tg">
-            <div class="col s5" id="arr">
-              <h2>Misión</h2>
-              <p class="hi" id="ma">Nuestro objetivo es lograr una mayor agilidad en el proceso de donaciones voluntarias, y de este modo aumentar el numero de personas salvadas por la contribucion de la comunidad.</p>
-            </div>
-                <div class="col s5" id="ma">
-                  <h2>Visión</h2>
-                  <p class="hi" id="ma">La aplicación sera distribuida entre las distribuida entre las diferentes regiones de colombia, brindando un servicio optimo y eficaz en las diferentes donaciones que puedan ser brindadas.</p>
-                </div>
-              </div>
+
         </div>
       </li>
       <li>
         <img src="assets/images/4.jpg">
         <div class="caption left-align">
           <div class="container row">
-            <form class="" action="?c=main&a=qs" method="post">
-              <button type="submit">enviar</button>
-            </form>
+
             <div>
             </div>
           </div>
@@ -29,39 +18,25 @@
       </li>
       <li>
         <img src="assets/images/6.jpg">
-        <div class="caption right-align row">
-          <h3>Objetivo</h3>
-          <p id="ha">
-            El objetivo de nuestra aplicación es avanzar a una nueva forma de realizar las donaciones, dandole
-            una herramienta por la cual los voluntarios tengan participación activa en el proceso, y de esta manera
-            generar solidaridad entre la comunidad.
-          </p>
-        </div>
+
       </li>
     </ul>
 
-    <div class="row">
-      <h2>Información</h2>
-      <p class="col s7">
-        La aplicación esta desarrollada para ser distribuida por las diferentes regiones de colombia brindando una
-        alternativa optima a la comunidad en el proceso de donaciones, haciendo de esté, un proceso más rapido
-        y accesible.</p>
-        <div class="col s6">
-          <span class="col s5 left">
-            <p>
-              Acceso a la comunidad: La aplicación estara a la mano de los voluntarios, dandoles la posibilidad de ofrecer
-              sus aportes a las instituciones, para que estas realicen el debido proceso.
-            </p>
-          </span>
-          <span class="col s5 right">
-            <p>
-              Acceso a las instituciones de salud: En el caso de las entidades responsables de las donaciones, poseeran
-              una plataforma capaz de filtrar a los voluntarios según los requisitos que necesitan para determinado
-              paciente y/o situación.
-            </p>
-          </span>
-        </div>
-      </div>
+    <form class="" action="?c=main&a=mv" method="post">
+      <button type="submit">enviar a misión y visión</button>
+    </form>
+
+    <form class="" action="?c=main&a=qs" method="post">
+      <button type="submit">enviar a quienes somos</button>
+    </form>
+
+    <form class="" action="?c=main&a=info" method="post">
+      <button type="submit" name="button">Enviar a información</button>
+    </form>
+
+    <form class="" action="?c=main&a=obj" method="post">
+      <button type="submit" name="button">Enviar a objetivo</button>
+    </form>
 
 
 <div class="container">
