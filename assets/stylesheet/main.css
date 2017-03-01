@@ -1,6 +1,6 @@
 #arr{
   margin-right: 15%;
-  color:white;
+  color:black;
 }
 
 .hi{
@@ -9,12 +9,11 @@
 
 #ha{
   font-size: 25px;
-  color: white;
+  color: black;
 }
 
 #ma{
-  color:white;
-  /*font-weight: bold;*/
+  color:black;
 }
 /*Contactenos*/
 #cir-j{
@@ -28,7 +27,7 @@
   text-align: center;
   font-size: 15px;
 }
-
+/* Contactenos info*/
 .b{
   font-size: 15px;
   text-align: center;
@@ -40,6 +39,19 @@
 }
 
 
+/*fondo en movimento*/
+/*indicadores*/
+.indicators{
+  display:none;
+}
+
+/*body index*/
+#base1{
+  background-color: yellow;
+  margin: 0;
+  padding: 40px;
+}
+
 /*menu*/
 #menu{
   z-index: 100;
@@ -47,6 +59,8 @@
   background: #000000;
   opacity: 0.5;
 }
+
+
 .side-nav{
   z-index:100;
   background-color: gray;
