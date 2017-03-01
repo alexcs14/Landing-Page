@@ -1,4 +1,7 @@
 <div class="slider fullscreen">
+  <div id="change">
+    <!-- <h1>Porque las pequeñas cosas pueden hacer un gran cambio</h1> -->
+  </div>
     <ul class="slides">
       <li>
         <img src="assets/images/3.jpg" >
@@ -10,6 +13,12 @@
         <img src="assets/images/6.jpg">
       </li>
     </ul>
+    <div id="base1">
+      <div class="container center">
+        <h1>Porque las pequeñas cosas pueden hacer un gran cambio</h1>
+        <img src="assets/images/descargar1.png">
+      </div>
+    </div>
 
     <form class="" action="?c=main&a=mv" method="post">
       <button type="submit">enviar a misión y visión</button>
@@ -27,8 +36,6 @@
       <button type="submit" name="button">Enviar a objetivo</button>
     </form>
 
-
-<h1>Porque las pequeñas cosas pueden hacer un gran cambio</h1>
 
 <div class="container">
     <div class="row">

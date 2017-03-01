@@ -42,3 +42,14 @@
 .indicators{
   display:none;
 }
+
+
+/*fondo en movimento*/
+
+
+/*body index*/
+#base1{
+  background-color: yellow;
+  margin: 0;
+  padding: 40px;
+}
