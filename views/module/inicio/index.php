@@ -41,7 +41,7 @@
 <div class="container">
     <div class="row">
     <div class="col s2" id="cir-j"><img class="circle responsive-img" src="assets/images/1.jpg"><span class="b">Jhony Alexander Oquendo Santana<p class="col s8"> Contacto: alex_os14@hotmail.com</p> </span> </div>
-    <div class="col s2" id="cir-y"><img class="circle responsive-img" src="assets/images/1.jpg"><span class="b">Yeny Paola López Salazar<p class="col s8"> Contacto: shatanoga.yp@gmail.com</p></span> </div>
+    <div class="col s2" id="cir-y"><img class="circle responsive-img" src="assets/images/1.jpg"><span class="b">Yeny Paola López Salazar<p class="col s9"> Contacto: shatanoga.yp@gmail.com</p></span> </div>
      </div>
 
-  </div>
+</div>
