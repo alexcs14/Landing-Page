@@ -1,7 +1,7 @@
+
 <div class="slider fullscreen">
-  <div id="change">
-    <!-- <h1>Porque las pequeñas cosas pueden hacer un gran cambio</h1> -->
-  </div>
+  <h1 id="p" class="container">Porque las pequeñas cosas pueden hacer un gran cambio</h1>
+  <img src="assets/images/descargar1.png" id="im">
     <ul class="slides">
       <li>
         <img src="assets/images/3.jpg" >
@@ -15,26 +15,28 @@
     </ul>
     <div id="base1">
       <div class="container center">
-        <h1>Porque las pequeñas cosas pueden hacer un gran cambio</h1>
-        <img src="assets/images/descargar1.png">
+        <h3>"No hay nada más fuerte en el mundo, que el corazón de un voluntario"</h3>
+        <h4>Jamer H. Dolittle</h4>
       </div>
     </div>
 
-    <form class="" action="?c=main&a=mv" method="post">
-      <button type="submit">enviar a misión y visión</button>
-    </form>
-
-    <form class="" action="?c=main&a=qs" method="post">
-      <button type="submit">enviar a quienes somos</button>
-    </form>
-
-    <form class="" action="?c=main&a=info" method="post">
-      <button type="submit" name="button">Enviar a información</button>
-    </form>
-
-    <form class="" action="?c=main&a=obj" method="post">
-      <button type="submit" name="button">Enviar a objetivo</button>
-    </form>
+<div class="container row left" id="base2">
+  <span class="col s6"><img src="assets/images/7.png" id="celular"></span>
+    <div class="col s6">
+      <div class="dat"><h4>Participación activa</h4><p>
+        Acceso activo a la donación por parte de los voluntarios
+      </p></div>
+      <div class="dat"><h4>Mayor velocidad</h4><p>
+        Agilidad en el proceso de citación para las donaciones
+      </p></div>
+      <div class="dat"><h4>Apoyo a la comunidad</h4><p>
+        Brindar información sobre la donación a los usuarios
+      </p></div>
+      <div class="dat"><h4>Facilidad de uso</h4><p>
+        Multiples ayudas y amigable con el usuario
+      </p></div>
+  </div>
+</div>
 
 
 <div class="container">
