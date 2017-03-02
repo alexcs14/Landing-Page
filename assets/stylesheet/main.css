@@ -1,3 +1,7 @@
+body{
+  background-image: url("../images/fondo.png");
+}
+
 #arr{
   margin-right: 15%;
   color:black;
@@ -34,7 +38,7 @@
 }
 
 #terms{
-  background-color: yellow;
+  background-color: #00695c;
   padding: 10px;
 }
 
@@ -47,9 +51,41 @@
 
 /*body index*/
 #base1{
-  background-color: yellow;
+  background-color: #00695c;
   margin: 0;
   padding: 40px;
+}
+
+#celular{
+  width: 70%;
+  margin-left: 40%;
+}
+
+#base2{
+  padding: 50px;
+}
+
+.dat{
+  font-size: 18px;
+  font-family: sans-serif;
+  margin-left: 20%;
+}
+
+#p{
+  z-index: 100;
+  position: absolute;
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+  margin: 15%;
+}
+
+#im{
+  z-index: 100;
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 40%;
+  margin-right: 40%;
 }
 
 /*menu*/
@@ -64,5 +100,5 @@
 #bars{
   z-index:100;
   background-color: gray;
-background-image: url(../../assets/images/bars.png);
+background-image: url(../assets/images/bars.png);
 }
