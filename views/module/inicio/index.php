@@ -1,7 +1,8 @@
 <div class="slider fullscreen">
   <div id="change">
-    <!-- <h1>Porque las pequeñas cosas pueden hacer un gran cambio</h1> -->
   </div>
+  <h1 id="p" class="container">Porque las pequeñas cosas pueden hacer un gran cambio</h1>
+  <img src="assets/images/descargar1.png" id="im">
     <ul class="slides">
       <li>
         <img src="assets/images/3.jpg" >
@@ -15,12 +16,13 @@
     </ul>
     <div id="base1">
       <div class="container center">
-        <h1>Porque las pequeñas cosas pueden hacer un gran cambio</h1>
-        <img src="assets/images/descargar1.png">
+        <h3>"No hay nada más fuerte en el mundo, que el corazón de un voluntario"</h3>
+        <h4>Jamer H. Dolittle</h4>
       </div>
     </div>
 
-<div class="container row" id="base2">
+<div class="container row left" id="base2">
+  <span class="col s6"><img src="assets/images/celular.png" id="celular"></span>
     <div class="col s6">
       <span class="dat"><h4>Participación activa</h4><p>
         Acceso activo a la donación por parte de los voluntarios
@@ -35,7 +37,6 @@
         Multiples ayudas y amigable con el usuario
       </p></span>
   </div>
-<span class="col s6"><img src="assets/images/celular.png" id="celular"></span>
 </div>
 
 

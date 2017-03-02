@@ -62,10 +62,28 @@
 }
 
 .dat{
-  margin: 0.5%;
+  margin: 0.2%;
   font-size: 18px;
+  font-family: sans-serif;
+
 }
 
+#p{
+  z-index: 100;
+  position: absolute;
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+  margin: 15%;
+}
+
+#im{
+  z-index: 100;
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 40%;
+  margin-right: 40%;
+}
 
 /*menu*/
 #menu{
