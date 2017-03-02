@@ -1,8 +1,14 @@
+/*mision y vision*/
 #arr{
+  background-image: url();
   margin-right: 15%;
   color:black;
 }
-
+#image{
+  background: url("../../../assets/images/mision.jpg");
+}
+.ms{
+   margin-top: 20%;}
 .hi{
   font-size: 25px;
 }
@@ -13,6 +19,8 @@
 }
 
 #ma{
+  margin-top: 30%;
+  margin-bottom: 20%;
   color:black;
 }
 /*Contactenos*/
