@@ -21,38 +21,22 @@
     </div>
 
 <div class="container row" id="base2">
-<span class="col s6">
-  <span class="dat"><h3>Participación activa</h3><p>
-    Acceso activo a la donación por parte de los voluntarios
-  </p></span>
-  <span class="dat"><h3>Mayor velocidad</h3><p>
-    Agilidad en el proceso de citación para las donaciones
-  </p></span>
-  <span class="dat"><h3>Apoyo a la comunidad</h3><p>
-    Brindar información sobre la donación a los usuarios
-  </p></span>
-  <span class="dat"><h3>Facilidad de uso</h3><p>
-    Multiples ayudas y amigable con el usuario
-  </p></span>
-</span>
+    <div class="col s6">
+      <span class="dat"><h4>Participación activa</h4><p>
+        Acceso activo a la donación por parte de los voluntarios
+      </p></span>
+      <span class="dat"><h4>Mayor velocidad</h4><p>
+        Agilidad en el proceso de citación para las donaciones
+      </p></span>
+      <span class="dat"><h4>Apoyo a la comunidad</h4><p>
+        Brindar información sobre la donación a los usuarios
+      </p></span>
+      <span class="dat"><h4>Facilidad de uso</h4><p>
+        Multiples ayudas y amigable con el usuario
+      </p></span>
+  </div>
 <span class="col s6"><img src="assets/images/celular.png" id="celular"></span>
 </div>
-
-    <form class="" action="?c=main&a=mv" method="post">
-      <button type="submit">enviar a misión y visión</button>
-    </form>
-
-    <form class="" action="?c=main&a=qs" method="post">
-      <button type="submit">enviar a quienes somos</button>
-    </form>
-
-    <form class="" action="?c=main&a=info" method="post">
-      <button type="submit" name="button">Enviar a información</button>
-    </form>
-
-    <form class="" action="?c=main&a=obj" method="post">
-      <button type="submit" name="button">Enviar a objetivo</button>
-    </form>
 
 
 <div class="container">

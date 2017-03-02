@@ -53,7 +53,7 @@
 }
 
 #celular{
-  width: 300px;
+  width: 320px;
   margin-left: 30%;
 }
 
@@ -62,9 +62,10 @@
 }
 
 .dat{
-  margin-bottom: 30px;
-  background-color: blue;
+  margin: 0.5%;
+  font-size: 18px;
 }
+
 
 /*menu*/
 #menu{
