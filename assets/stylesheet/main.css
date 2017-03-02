@@ -52,6 +52,20 @@
   padding: 40px;
 }
 
+#celular{
+  width: 300px;
+  margin-left: 30%;
+}
+
+#base2{
+  padding: 50px;
+}
+
+.dat{
+  margin-bottom: 30px;
+  background-color: blue;
+}
+
 /*menu*/
 #menu{
   z-index: 100;
