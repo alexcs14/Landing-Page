@@ -20,9 +20,9 @@
       </div>
     </div>
 
-    <form class="" action="?c=main&a=mv" method="post">
+    <button class="" action="?c=main&a=mv" method="post">
       <button type="submit">enviar a misión y visión</button>
-    </form>
+    </button>
 
     <form class="" action="?c=main&a=qs" method="post">
       <button type="submit">enviar a quienes somos</button>
