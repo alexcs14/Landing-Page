@@ -1,6 +1,5 @@
+
 <div class="slider fullscreen">
-  <div id="change">
-  </div>
   <h1 id="p" class="container">Porque las pequeñas cosas pueden hacer un gran cambio</h1>
   <img src="assets/images/descargar1.png" id="im">
     <ul class="slides">
@@ -22,20 +21,20 @@
     </div>
 
 <div class="container row left" id="base2">
-  <span class="col s6"><img src="assets/images/celular.png" id="celular"></span>
+  <span class="col s6"><img src="assets/images/7.png" id="celular"></span>
     <div class="col s6">
-      <span class="dat"><h4>Participación activa</h4><p>
+      <div class="dat"><h4>Participación activa</h4><p>
         Acceso activo a la donación por parte de los voluntarios
-      </p></span>
-      <span class="dat"><h4>Mayor velocidad</h4><p>
+      </p></div>
+      <div class="dat"><h4>Mayor velocidad</h4><p>
         Agilidad en el proceso de citación para las donaciones
-      </p></span>
-      <span class="dat"><h4>Apoyo a la comunidad</h4><p>
+      </p></div>
+      <div class="dat"><h4>Apoyo a la comunidad</h4><p>
         Brindar información sobre la donación a los usuarios
-      </p></span>
-      <span class="dat"><h4>Facilidad de uso</h4><p>
+      </p></div>
+      <div class="dat"><h4>Facilidad de uso</h4><p>
         Multiples ayudas y amigable con el usuario
-      </p></span>
+      </p></div>
   </div>
 </div>
 
