@@ -97,7 +97,7 @@ body{
 }
 
 
-.side-nav{
+#bars{
   z-index:100;
   background-color: gray;
 background-image: url(../assets/images/bars.png);
